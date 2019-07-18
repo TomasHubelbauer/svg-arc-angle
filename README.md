@@ -11,3 +11,5 @@ Add an alternative where the animation is done using CSS `animation` on the
 `requestAnimationFrame`:
 
 https://css-tricks.com/svg-line-animation-works/
+
+Blend the colors instead of switching at the boundary points.
